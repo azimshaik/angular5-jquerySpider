@@ -1,5 +1,5 @@
 ## install jquery and save to project dependencies
-install jquery and save to project dependencies
+
 `npm install jquery --save`
 
 ## install typings for jquery, used by typescript. save to dev dependencies
